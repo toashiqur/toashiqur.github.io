@@ -29,7 +29,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 --->
-Readymade [Jekyll template][jekyll-link] can be forked to build a blog on GitHub quickly. But if you prefer some adventure and want to experiment eveything from scratch then this post is for you!
+One easy way to build GitHub blog quickly is to fork [Jekyll template][jekyll-link]. But if you prefer some adventure and want to experiment eveything from scratch then this post is for you!
 
 The first step to create a blog on GitHub is to have a GitHub [github-link] account. After log in to your account you will see a panel on the left to create a repository. Create a new repository and name it **your_user_name.github.io**. When creating the repository make it public, you may skip Initialize the repository with a ReadMe file, choose a licence of your preference. After creating the repository you will get the address of the repository similar to **https://github.com/your_user_name/your_user_name.github.io.git**.
 
