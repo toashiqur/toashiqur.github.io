@@ -18,5 +18,7 @@ layout: home
 # Projects
 
 ## [Software Defect Prediction Using Rich Contextualized Language Use Vectors][defect-prediction-link]
+## [Reinforcement Learning: Q-Learning][q-learning-link]
 
 [defect-prediction-link]:https://toashiqur.github.io/Defect-Prediction-Using-RCLUV/
+[q-learning-link]:https://toashiqur.github.io/Reinforcement-Learning/
