@@ -84,7 +84,7 @@ After modifying your code, save it and check the website using Jekyll on your ow
 ```
 jekyll serve
 ```
-If Jekyll is already running simply refresh the page. If the contents of the page doesn't change even after refrehing then stop Jekyll and try
+If Jekyll is already running simply refresh the page. If the contents of the page doesn't change even after refreshing then stop Jekyll and try
 
 ```
 bundle exec jekyll clean

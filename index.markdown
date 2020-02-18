@@ -14,3 +14,9 @@ layout: home
 
 <!--- White LinkedIn theme--->
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="toashiqur"><a class="LI-simple-link" href='https://ca.linkedin.com/in/toashiqur?trk=profile-badge'>Ashiqur Rahman</a></div>
+
+# Projects
+
+## [Software Defect Prediction Using Rich Contextualized Language Use Vectors][defect-prediction-link]
+
+[defect-prediction-link]:https://toashiqur.github.io/Defect-Prediction-Using-RCLUV/
