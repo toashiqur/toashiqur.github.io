@@ -18,11 +18,13 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll
 --->
-My interest in computer developed from computer games. Still I remember spending hours playing Commmando and Sim City. I learned to do programming in C from my own interest several years before I took admission in university. At that time I didn't even imagine that this leisure time fun activity would help me to decide my Aim in Life.
+My interest in computer developed from computer games! Still I remember spending hours playing Commmando and Sim City. I learned to do programming in C from my own interest several years before I took admission in university. At that time I didn't even imagine that this leisure time fun activity would help me to decide my Aim in Life.
 
-I graduated as a computer science and eningeering student wit distinction from Khulna University Bangladesh. After completing my graduation I started my career in academia. Sharing of my knowledge with my students was a great pleasure. Each moment I felt I was learning something new -  guiding young people, expressing thoughts, creating new ideas and so on. Teaching sharpened my skills to share my knowledge in a geat deal. Here I got the meaning of a quote from Buddha "Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened."
+I graduated as a computer science and eningeering student with Distinction from Khulna University Bangladesh. After completing my graduation I started my career in academia. Sharing of my knowledge with my students was a great pleasure. Each moment I felt I was learning something new -  guiding young people, expressing thoughts, creating new ideas and so on. Teaching sharpened my skills to share my knowledge in a geat deal. Here I got the meaning of the quote from Buddha "Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened."
 
 When I am not working I like passing time with my family and friends, experimenting new cooking recipes and playing computer games.
 
 If you are interested to know more about my Academic and Professional life then please [Click Here][cv-link].
+
+[cv-link]:https://www.dropbox.com/s/etuqqx3pnib7q3w/ResumeAshiqur.docx?dl=0
 
