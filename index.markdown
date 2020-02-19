@@ -20,6 +20,7 @@ layout: home
 ## [Software Defect Prediction Using Rich Contextualized Language Use Vectors][defect-prediction-link]
 ## [Reinforcement Learning: Q-Learning][q-learning-link]
 ## [Which Source Files Are Going to Require Change?][change-prediction-link]
+## [Sentiment Analysis Using BigInsights for Hadoop][sentiment-link]
 ## [Managing NoSQL Database on IBM Cloudant][nosql-link]
 ## [PHP Language Feature Analysis][php-link]
 
@@ -28,3 +29,4 @@ layout: home
 [change-prediction-link]:https://toashiqur.github.io/software-change-prediction/
 [php-link]: https://toashiqur.github.io/PHP-Feature-Analysis/
 [nosql-link]: https://toashiqur.github.io/IBM-Cloudant-NoSQL/
+[sentiment-link]: https://toashiqur.github.io/sentiment-analysis-hadoop/
