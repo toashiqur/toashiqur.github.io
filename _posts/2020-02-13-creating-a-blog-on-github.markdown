@@ -31,7 +31,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 --->
 One easy way to build GitHub blog quickly is to fork [Jekyll template][jekyll-link]. But if you prefer some adventure and want to experiment eveything from scratch then this post is for you!
 
-The first step to create a blog on GitHub is to have a GitHub [github-link] account. After log in to your account you will see a panel on the left to create a repository. Create a new repository and name it **your_user_name.github.io**. When creating the repository make it public, you may skip Initialize the repository with a ReadMe file, choose a licence of your preference. After creating the repository you will get the address of the repository similar to **https://github.com/your_user_name/your_user_name.github.io.git**.
+The first step to create a blog on GitHub is to have a [GitHub] [github-link] account. After log in to your account you will see a panel on the left to create a repository. Create a new repository and name it **your_user_name.github.io**. When creating the repository make it public, you may skip Initialize the repository with a ReadMe file, choose a licence of your preference. After creating the repository you will get the address of the repository similar to **https://github.com/your_user_name/your_user_name.github.io.git**.
 
 Use the [git][git-command-link] tool to clone the repository to your own machine.
 
@@ -45,13 +45,13 @@ Now download and install the [Jekyll][jekyll-download-link] tool. This tool will
 jekyll -v
 ```
 
-Now set the path of the command prompt to your existing folder [your_user_name.github.io.git] and give the following [command][jekyll-in-existing-link]. The dot (.) here is part of the command.
+Now set the path of the command prompt to your cloned repository **your_user_name.github.io.git** and give the following [command][jekyll-in-existing-link]. The dot (.) here is part of the command.
 
 ```
 jekyll new .
 ```
 
-if you have existing files then 
+if you have pre-existing files in your repository then 
 
 ```
 jekyll new . --force
@@ -75,7 +75,7 @@ $git push -u origin master
 
 Now go to to your GitHub repository (refresh if it's already open). It should show the uploaded project in the master branch. Go to the **Settings** of your repository. Under the **GitHub Pages** section you will find the link of your website. If it's showing *Your site is ready to be published at http://* then wait a while and refresh your page. It will change to *Your site is published at http://*
 
-Your blog is online now, but it's holding only the default contents. You can customize it in your own way. One starting point is *_config.yml*. To publish your content modify follow the format of post inside the directory *_posts/*.
+Your blog is online now, but it's holding only the default contents. You can customize it in your own way. One starting point is *_config.yml*. To publish your blog content modify following the format of the post given as an example inside the directory *_posts/*. The link to your post will appear automatically in your Front matter.
 
 You can customize your blog directly on GitHub or on your local machine. If you work on your local machine you can use [VSC][vsc-link] (Visual Studio Code) (a text editor will also do).
 
@@ -92,6 +92,7 @@ jekyll serve
 ```
 
 When satisfied commit the changes using git bash and push it to your GitHub account.
+
 
 [jekyll-link]: https://github.com/barryclark/jekyll-now
 [jekyll-download-link]: https://jekyllrb.com/docs/installation/windows/
