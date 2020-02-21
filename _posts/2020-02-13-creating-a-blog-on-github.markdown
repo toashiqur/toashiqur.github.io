@@ -73,7 +73,7 @@ $git commit -m "Initial Commit"
 $git push -u origin master
 ```
 
-Now go to to your GitHub repository (refresh if it's already open). It should show the uploaded project in the master branch. Go to the **Settings** of your repository. Under the **GitHub Pages** section **Select a source** (for example: the master branch). The page will refresh and you will find the link of your website. If it's showing *Your site is ready to be published at http://* then wait a while and refresh your page. It will change to *Your site is published at http://*.
+Now go to to your GitHub repository (refresh if it's already open). It should show the uploaded project in the master branch. Go to the **Settings** of your repository. Under the **GitHub Pages** section select a **Source** branch (for example: the master branch). The page will refresh and you will find the link of your website. If it's showing *Your site is ready to be published at http://* then wait a while and refresh your page. It will change to *Your site is published at http://*.
 
 Your blog is online now, but it's holding only the default contents. You can customize it in your own way. One starting point is *_config.yml*. To publish your blog content modify following the format of the post given as an example inside the directory *_posts/*. The link to your post will appear automatically in your Front matter.
 
