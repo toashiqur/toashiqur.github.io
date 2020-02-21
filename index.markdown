@@ -50,7 +50,7 @@ Tools: Python, Numpy, Matplotlib, Pandas, Prettytable
 ### **[Which Source Files Are Going to Change?][change-prediction-link]**
 Tools: Python, TXL, Tensorflow, Scikit-learn, Pandas, Numpy, Matplotlib, Deep neural network, Support Vector Classifier, Decision Tree, K-nearest Neighbors, Naive Bayes, Jupyter Notebook
 
-### **[NiPAT- A Program Pattern Detection Tool][nipat-link]
+### **[NiPAT- A Program Pattern Detection Tool][nipat-link]**
 Tools: Python, NiCAD, TXL, XML, HTML
 
 ### **[Sentiment Analysis Using BigInsights for Hadoop][sentiment-link]**
