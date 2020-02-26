@@ -21,7 +21,7 @@ My interest in computer developed from computer games! Still I remember spending
 
 I graduated as a computer science and eningeering student with Distinction from Khulna University Bangladesh. After completing my graduation I started my career in academia. Sharing of knowledge with students was a great pleasure. Each moment I felt I was learning something new -  guiding young people, expressing thoughts, creating new ideas and so on. Teaching sharpened my skills to share my knowledge in a geat deal. Here I got the meaning of the quote from Buddha "Thousands of candles can be lit from a single candle, and the life of the candle will not be shortened." 
 
-I received my M.Sc in Ultra-large scale software sytems from Queen's university, Kingston. As a Research Assistant at Queen's School of Computing, I am working with Machine Learning technologies. Feature engineering, model optimization, visualization, and statiscal analysis are of a great interest to me.
+I received my M.Sc in Ultra-large scale software sytems from Queen's university, Kingston. As a Machine Learning Research Assistant at Software Technology Lab, Queen's University, I am working with estimating software quality. Feature engineering, model optimization, visualization, and statiscal analysis are of a great interest to me.
 
 When I am not working I like passing time with my family and friends, experimenting new cooking recipes, reading novels and obviously playing computer games!
 
@@ -30,19 +30,20 @@ When I am not working I like passing time with my family and friends, experiment
 ## Skills
 
 |------------------------|---------------------------------------------------------------------|
-|Programming Languages | Python, Java, Matlab, C, C++, TXL |
+|Programming Languages | Python, Java, Matlab, C, C++, TXL, Xtend |
 |Machine Learning Tools | Scikit-learn, Tensorflow, Keras, Weka|
 |Data Analysis & Visualization Tools |  R, Pandas, Numpy, SPSS, Tableau, Matplotlib, Seaborn, Microsoft Visio|
 |Database Languages | SQL, NoSQL|
 |Version Control Systems | Git, GitHub|
-|Software Modeling Tools | Eclipse modeling framework, Papyrus-RT, UML-RT|
-|Other| PHP, MySQL, HTML, NiCAD, Hadoop, MapReduce, Jupyter Notebook, Latex|
+|Software Modeling Tools | Eclipse modeling framework, Xtext, Papyrus-RT, UML-RT|
+|Other| PHP, MySQL, XML, HTML, NiCAD, Hadoop, MapReduce, Jupyter Notebook, Latex|
 
 
 ## Projects
-
+<!--->
 ### **[Software Defect Prediction Using Rich Contextualized Language Use Vectors][defect-prediction-link]**
 Tools: Python, TXL, R, Tensorflow, Scikit-learn, Pandas, Numpy, Matplotlib, Deep neural network, Support Vector Classifier, Decision Tree, K-nearest Neighbors, Naive Bayes, WEKA, Jupyter Notebook, Visio
+--->
 
 ### **[Reinforcement Learning: Q-Learning][q-learning-link]**
 Tools: Python, Numpy, Matplotlib, Pandas, Prettytable
@@ -51,7 +52,7 @@ Tools: Python, Numpy, Matplotlib, Pandas, Prettytable
 Tools: Python, TXL, Tensorflow, Scikit-learn, Pandas, Numpy, Matplotlib, Deep neural network, Support Vector Classifier, Decision Tree, K-nearest Neighbors, Naive Bayes, Jupyter Notebook
 
 ### **[NiPAT- A Program Pattern Detection Tool][nipat-link]**
-Tools: Python, NiCAD, TXL, XML, HTML
+Tools: Python, NiCAD, TXL, XML, HTML, Microsoft Visio
 
 ### **[Sentiment Analysis Using BigInsights for Hadoop][sentiment-link]**
 Tools: Java, MapReduce, Apache Hadoop, IBM BLuemix
@@ -68,5 +69,5 @@ Tools: TXL, PHP, Shell Script
 [php-link]: https://toashiqur.github.io/PHP-Feature-Analysis/
 [nosql-link]: https://toashiqur.github.io/IBM-Cloudant-NoSQL/
 [sentiment-link]: https://toashiqur.github.io/sentiment-analysis-hadoop/
-[cv-link]:https://www.dropbox.com/s/etuqqx3pnib7q3w/ResumeAshiqur.docx?dl=0
+[cv-link]: https://queensuca-my.sharepoint.com/:w:/g/personal/13ar93_queensu_ca/EQ4HycRKz21CvlVjqKiUJlwBC9a-xVdUPrzBFvG6uuS7zQ?e=ULr3d1
 [nipat-link]: https://toashiqur.github.io/NiPAT-Pattern-Detection/
