@@ -40,7 +40,7 @@ When I am not working I like passing time with my family and friends, experiment
 
 
 ## Projects
-<!--->
+<!---
 ### **[Software Defect Prediction Using Rich Contextualized Language Use Vectors][defect-prediction-link]**
 Tools: Python, TXL, R, Tensorflow, Scikit-learn, Pandas, Numpy, Matplotlib, Deep neural network, Support Vector Classifier, Decision Tree, K-nearest Neighbors, Naive Bayes, WEKA, Jupyter Notebook, Visio
 --->
