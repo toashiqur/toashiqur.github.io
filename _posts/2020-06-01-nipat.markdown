@@ -1,0 +1,13 @@
+---
+title: NiPAT 
+subtitle: A Program Pattern Detection Tool
+layout: default
+modal-id: 5
+date: 2020-06-01
+img: nipat.png
+thumbnail: nipat-thumbnail.png
+alt: image-alt
+project-date: April 2019
+tags: Python, NiCAD, TXL, XML, HTML, Microsoft Visio
+description:  <div style="text-align:left;">All programming languages need to be updated regularly by adding new features that fill programming needs. Existing approaches to determine new language features are completely manual and are based on language developers' experience, source code analysis, feature requests, and programmer interviews. Although these are acceptable practises, they are time-consuming and require a lot of brainstorming tasks, such as preparing interview questions, understanding ambiguous ideas, finding the common requirements, etc.</p>This project uses a systematic approach for identifying language features with the help of pattern and clone detection tools that work on source code. It semi-automates the task of feature identification, works quickly, and reduces the effort involved in existing practises. We identify features for the TXL language by implementing our idea and enabling the NiCAD clone detector to perform clone analysis on TXL source code, and developing a pattern detector. After detecting code patterns with the pattern detector and analyzing them, we propose eleven new features to TXL language developers that can help improve the feature set of TXL. Details with source code can be found at <a href="https://toashiqur.github.io/NiPAT-Pattern-Detection/">NiPAT</a></div>
+---

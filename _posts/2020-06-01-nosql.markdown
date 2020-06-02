@@ -1,0 +1,13 @@
+---
+title: NoSQL
+subtitle: NoSQL Database on IBM Cloudant
+layout: default
+modal-id: 8
+date: 2020-06-01
+img: nosql.png
+thumbnail: nosql-thumbnail.png
+alt: image-alt
+project-date: April 2019
+tags: NoSQL Database, Java, IBM Cloudant
+description:  <div style="text-align:left;">Cloudant is a fully managed and distributed Database as a Service (DBaaS) platform from IBM to create and manage NoSQL (Not only SQL) JSON (JavaScript Object Notation) documents. It is highly scalable, available and secured. Horizontal scaling, geo load balancing, auto sharding and rebalancing of data, and integrated IO monitoring and prioritization have made Cloudnat massively scalable. Data in Cloudant is also highly available because it triplicates data in three different servers, and performs auto sharding and rebalancing to avoid the effect of server failure and maintenance. Data gets various security measures provided by the hosts such as certification, virus scanning and so on. Cloudant also ensures access security through authentication, encryption etc.</p>This writing provides basics of Cloudant architecture and shows how to perform basic NoSQL operations. Source code is available at <a href="https://toashiqur.github.io/IBM-Cloudant-NoSQL/">NoSQL on IBM Cloudant</a></div>
+---
